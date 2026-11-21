@@ -19,12 +19,11 @@ Free, no-sign-up browser tools for Hong Kong small businesses, freelancers and s
 | PDF 合併 | 線上合併、壓縮 PDF，檔案不離開裝置 | https://pdf.egehk.com |
 | 修仙習慣追蹤 | 遊戲化習慣打卡，每日修煉、境界突破 | https://qi.egehk.com |
 
-## 商業軟件（一次性買斷，無月費）
+## 收費產品（一次性買斷，無月費）
 
 | 產品 | 說明 | 連結 |
 |---|---|---|
-| EGE 商務會計系統 | 香港小微企離線記帳：報價→發票→收款→欠款，零售 POS、庫存成本、工程毛利、銀行對帳、MPF 計糧、會計師交接包。數據 100% 留在本機。 | https://software.egehk.com |
-| EGE 簡易版 | 個人商戶、自由工作者的輕量記帳與開單 | https://accounting.egehk.com |
+| EGE 家庭記帳 app | 香港家庭記賬系統。記賬、資產負債、每月固定支出，一個網頁就夠。資料只存你部電腦／手機／平板，唔上傳、唔收月費，一次買斷 HK$199。 | https://egehk.com |
 
 ## 技術說明
 
